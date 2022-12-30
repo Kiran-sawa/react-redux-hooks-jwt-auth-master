@@ -1,0 +1,74 @@
+#homecard{
+
+    background-color:rgb(245, 241, 240);
+
+    height: 400px;
+    width: 300px;
+    padding: 20px;
+    float: left;
+
+
+
+}
+
+#maiinpublicbody{
+height: 400px;
+   background-image:url(https://digitalhub.fifa.com/transform/91fdd7b3-1de8-4b6c-bd18-ec9f48ce2402/Hihgights-Page-All-Versions-New-banner?io=transform:fill,aspectratio:16x9,width:1024&quality=100);
+   background-position: 90px;
+   background-color: #550065;
+   background-repeat: no-repeat;
+   background-position: 900px;
+   background-size: 500px;
+
+}
+#maiinpublicbody h3{
+    color: white;
+
+  
+}
+#div1{
+
+    background-color:rgb(245, 243, 240);
+ 
+    height: 400px;
+    width: 300px;
+    padding: 20px;
+  margin: 20px;
+
+    float: left;
+
+
+}
+#div1:hover{
+
+
+    height: 450px;
+    width: 400px;
+transition: 0.5s ease-in-out;
+
+
+
+
+}
+
+
+#header{
+    background-color: #550065;
+  padding: 23px;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+     height: 500px;
+width: auto;
+  
+
+  
+}
+
+#maindivbody{
+display: block;
+
+
+}
